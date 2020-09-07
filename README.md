@@ -16,3 +16,5 @@ Have you ever purchased something on Amazon only to find that the price has drop
 10.	All data is saved in a csv file, which is formatted nicely to open in any spreadsheet editor. For example: using Microsoft Excel commands, the user can create a scatter plot of the recorded prices or customer ratings and make observations or deduce trends
 
 **Note**, for email notofications to be sent, you must enter a **gmail** adress and password into the top of the python source code
+
+**Final** project file is called **main.py**
