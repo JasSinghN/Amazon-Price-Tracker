@@ -8,7 +8,7 @@ import csv
 
 # READ ME
 # Email_info(Please enter your email and password before running script)
-email = 'Type Email inside quotes'
+email = 'Type gmail inside quotes'
 password = 'Type password inside quotes'
 #-----------------------------------------------------------------------
 
