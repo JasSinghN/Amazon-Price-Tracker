@@ -14,3 +14,5 @@ Have you ever purchased something on Amazon only to find that the price has drop
 8.	Once such a price is discovered, the application will send an automated email to the account specified in the python source code. 
 9.	If desired, the user could skip mode “0” of price tracking, and manually add in a value for the price at which they would like to receive an email.
 10.	All data is saved in a csv file, which is formatted nicely to open in any spreadsheet editor. For example: using Microsoft Excel commands, the user can create a scatter plot of the recorded prices or customer ratings and make observations or deduce trends
+
+**Note**, for email notofications to be sent, you must enter a **gmail** adress and password into the top of the python source code
